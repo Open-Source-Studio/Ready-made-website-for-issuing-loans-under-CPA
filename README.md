@@ -1,4 +1,4 @@
-# Ready-made website for issuing loans under CPA and SEO
+# Ready-made website for issuing loans under CPA 
 
 ### Шаг 1: Подготовка к установке
 
